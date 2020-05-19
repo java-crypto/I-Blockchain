@@ -12,3 +12,21 @@ Website: http://javacrypto.bplaced.net The programs in this area show examples o
 * Security notice * Some program are cryptographic unsafe and should not used in any production case, they are provided for learning purposes only. All programms are runnable with Java 8 and Java 11.
 
 You find explanations to all programs here: http://javacrypto.bplaced.net/i-blockchain/
+
+step1 (Ordner/Folder): http://javacrypto.bplaced.net/i01-die-einfachste-blockchain/
+
+step2 (Ordner/Folder): http://javacrypto.bplaced.net/i02-blockchain-mit-hashwerten/
+
+step3 (Ordner/Folder): http://javacrypto.bplaced.net/i03-gueltigkeit-der-blockchain/
+
+step4 (Ordner/Folder): http://javacrypto.bplaced.net/i04-hash-schwierigkeitsstufe-erhoehen/ http://javacrypto.bplaced.net/i04b-hash-schwierigkeitsstufe-erhoehen/
+
+step5 (Ordner/Folder): http://javacrypto.bplaced.net/i05-erstellung-eines-wallets/
+
+step6 (Ordner/Folder): http://javacrypto.bplaced.net/i06-nutzung-von-transaktionen/
+
+step7 (Ordner/Folder): http://javacrypto.bplaced.net/i07-vorbereitung-des-javacryptocoin/
+
+step8 (Ordner/Folder): http://javacrypto.bplaced.net/i08-der-javacryptocoin/
+
+step9 (Ordner/Folder): http://javacrypto.bplaced.net/i09-der-javacryptocoin-komplett/ http://javacrypto.bplaced.net/i09b-der-javacryptocoin-komplett/
